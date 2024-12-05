@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\model.h(138,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\visual.h(37,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\visual.h(49,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\visual.h(57,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\visual.h(58,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\visual.h(60,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\visual.h(60,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\main.cpp(30,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\main.cpp(44,68): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\main.cpp(44,46): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\main.cpp(47,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\main.cpp(47,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  studentLR.vcxproj -> C:\Users\Ivaylo Ivanov\Desktop\programing\studentLR\x64\Debug\studentLR.exe
